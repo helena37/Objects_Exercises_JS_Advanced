@@ -146,7 +146,9 @@ R
   Rolex: 100000
   Rollon: 10
   Rubic's Cube: 5
+  
 5.	Auto-Engineering Company
+
 You are tasked to create a register for a company that produces cars. You need to store how many cars have been produced from a specified model of a specified brand.
 Input
 The input comes as array of strings. Each element holds information in the following format:
@@ -320,7 +322,9 @@ Input	Output
 Hints
 •	Think of an easy way to compare arrays.
 •	Sometimes the most obvious collection choice is not the best one.
+
 9.	*Arena Tier
+
 Pesho is a pro gladiator, he is struggling to become master of the Arena. 
 You will receive several input lines in one of the following formats:
 "{gladiator} -> {technique} -> {skill}"
@@ -376,7 +380,9 @@ Pesho: 400 skill
 Gladius wins vs Julius /common technique: "Shield". Julius is demoted.
 Gosho doesn`t exist so the duel isn`t valid.
 We print every gladiator left in the tier.
+
 10.	*Game of Epicness
+
 Write a JavaScript program that determines the winner from all battles. You will receive two arguments:
 The first argument is an array of kingdoms with generals and their army in the form of an object with format:
 { kingdom: String, general: String, army: Number }
